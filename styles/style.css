@@ -362,12 +362,13 @@ article .icon {
 #article-short {
   display: flex;
   justify-content: flex-start;
+  gap: 1.5rem;
 }
 
 
-#short {
+/* #short {
   padding-left: 18px;
-}
+} */
 
 /* PROJECTS SECTION */
 
