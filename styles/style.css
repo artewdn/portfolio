@@ -322,12 +322,13 @@ section {
 
 /* EXPERIENCE SECTION */
 
+
 #experience {
   position: relative;
 }
 
 .experience-sub-title {
-  color: rgb(85, 85, 85);
+  color: #555;
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
@@ -343,7 +344,6 @@ section {
   display: flex;
   text-align: initial;
   flex-wrap: wrap;
-  flex-direction: row;
   gap: 2.5rem;
   justify-content: space-around;
 }
@@ -355,7 +355,7 @@ article {
   gap: 0.5rem;
 }
 
-article .icon {
+.article .icon {
   cursor: default;
 }
 
@@ -366,9 +366,6 @@ article .icon {
 }
 
 
-/* #short {
-  padding-left: 18px;
-} */
 
 /* PROJECTS SECTION */
 
