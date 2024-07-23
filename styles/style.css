@@ -321,8 +321,6 @@ section {
 }
 
 /* EXPERIENCE SECTION */
-
-
 #experience {
   position: relative;
 }
@@ -364,7 +362,6 @@ article {
   justify-content: flex-start;
   gap: 1.5rem;
 }
-
 
 
 /* PROJECTS SECTION */
